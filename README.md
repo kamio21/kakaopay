@@ -19,6 +19,8 @@ key          | value          |
 ------------ | -------------  | 
 http://google.com | 157u972lM |
 
+# Prerequisites
+- Java 1.8.x
 
 # 실행 방법
 - 서버 구동 <br>
