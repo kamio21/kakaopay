@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ShortenURL/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="server/apache-tomcat-7.0.73/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="ShortenURL/webapps/WEB-INF/classes"/>
+</classpath>
